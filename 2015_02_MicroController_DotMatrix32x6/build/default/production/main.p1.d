@@ -1,0 +1,9 @@
+build/default/production/main.p1:	\
+	timer.h	\
+	main.h	\
+	led.h	\
+	isr.h	\
+	pattern.h	\
+	menu.h	\
+	switch.h	\
+	delay.h	\
