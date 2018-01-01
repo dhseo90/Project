@@ -1,0 +1,18 @@
+﻿  Page2.cpp
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(118): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(269): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(274): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(274): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(279): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(279): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(284): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(284): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(289): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+c:\users\administrator\documents\visual studio 2015\projects\mfc_project\mfc_project\page2.cpp(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  MFC_Project.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\MFC_Project\Debug\MFC_Project.exe
+  MFC_Project.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\MFC_Project\Debug\MFC_Project.pdb (Partial PDB)
