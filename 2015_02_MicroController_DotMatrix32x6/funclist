@@ -1,0 +1,18 @@
+_init_led: CODE, 4153 0 12
+_read_switch: CODE, 4636 0 237
+_input_data_to_led: CODE, 5264 0 402
+_change_to_char: CODE, 21 0 1950
+_display: CODE, 1971 0 72
+_wave_led: CODE, 4873 0 391
+_led_off: CODE, 4181 0 111
+_main: CODE, 4452 0 184
+_toggle: CODE, 2142 0 583
+_timer: CODE, 2078 0 26
+_init_timer0: CODE, 2048 0 11
+_moving_glow_left_right_data: CODE, 2725 0 613
+_opposition: CODE, 5666 0 478
+_led_on: CODE, 4292 0 160
+_divide_out: CODE, 3338 0 758
+_init_config: CODE, 4165 0 16
+_init_switch: CODE, 4129 0 8
+Total: 6012
