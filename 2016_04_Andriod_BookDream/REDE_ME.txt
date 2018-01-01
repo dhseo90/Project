@@ -1,0 +1,24 @@
+1. Install 목록
+   1) Android Studio
+   2) MySQL
+   3) Eclipse
+   4) Tomcat 7.0
+
+2. Database(MySQL) 설정
+   1) ID : root, PW : 1234로 설정
+   2) 총 4개의 스키마를 추가합니다 : (1) demand_db 
+   				     (2) complete_present_condition_db 
+				     (3) member_db 
+				     (4) supply_db
+   ※ 테이블은 톰캣 서버가 자동으로 만들어준다.
+
+3. Server 설정
+   1) Eclipse로 소켓 서버와 톰켓 서버를 Import
+   2) Tomcat 연동 : Window - Preferences - Server - Runtime Environment
+                    Add - Apache Tomcat v7.0 - Tomcat installation directory 설정
+   3) Tomcat Project의 마우스 오른쪽 클릭 - Properties - Java Build Path - Libraries - Add External JARS 클릭 후
+      "mysql-connector-java-5.1.39-bin" 파일 삭제 후 해당 파일 다시 지정 시켜준다.
+   4) Servers의 Tomcat 설정에서 BookDreamServerProject를 추가 시켜주고 start로 서버를 구동시켜준다.
+
+4. Android
+   1) res/value/string.xml -> 맨 아래 ip_address를 서버 IP로 변경 한 후 실행
